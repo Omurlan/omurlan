@@ -7,7 +7,7 @@ new technologies for developing web applications. At the moment I work and activ
 </p>
 
 <span style="font-size: 16px; color: #bb986b">My tech stack:</span>
-
+In his beard lived three <span style="color:red">cardinals</span>.
 
 - React <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
 - Javascript <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>
