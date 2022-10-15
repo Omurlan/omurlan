@@ -3,7 +3,7 @@
 <img width="100" src="https://miro.medium.com/max/512/1*jA5lTgPRbyimsFNod7SlFQ.png"/>
 
 I started my programming journey in 2020 and continue to this day learning 
-new technologies for developing web applications. At the moment I work and actively study programming.I feel like the more I know the less I know :)
+new technologies for developing web applications. At the moment I work and actively study programming. I feel like the more I know the less I know :)
 
 ### My tech stack:
 
