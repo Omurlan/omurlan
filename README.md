@@ -3,7 +3,7 @@
 <img width="100" src="https://miro.medium.com/max/512/1*jA5lTgPRbyimsFNod7SlFQ.png"/>
 
 I started my programming journey in 2020 and continue to this day learning 
-new technologies for developing web applications. At the moment I work and actively study programming.
+new technologies for developing web applications. At the moment I work and actively study programming.I feel like the more I know the less I know :)
 
 ### My tech stack:
 
@@ -14,7 +14,5 @@ new technologies for developing web applications. At the moment I work and activ
 - Material UI <img width="15" src="https://mui.com/static/logo.png">
 - Docker <img width="15" src="https://miro.medium.com/max/400/1*OARpkeBkn_Tw3vk8H769OQ.png">
 - Webpack <img width="15" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png">
-
-I feel like the more I know the less I know :)
 
 UPD: I'll be back soon and make my profile more interesting 🙂👍
