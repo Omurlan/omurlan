@@ -1,5 +1,5 @@
 # Hello 👋, I'm Omurlan 
-## React frontend developer
+## React/Native frontend developer
 <img width="100" src="https://miro.medium.com/max/512/1*jA5lTgPRbyimsFNod7SlFQ.png"/>
 
 I started my programming journey in 2020 and continue to this day learning 
